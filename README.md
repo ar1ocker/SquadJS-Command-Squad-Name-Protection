@@ -5,7 +5,7 @@
 
 The plugin protects against the manual creation of a squad named "Command Squad"
 
-**Proven on SquadJS 4.1.0**
+**Tested on SquadJS 4.1.0**
 
 ## Installation 
 
